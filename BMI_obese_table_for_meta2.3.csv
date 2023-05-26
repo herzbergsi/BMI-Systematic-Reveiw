@@ -1,0 +1,13 @@
+Authors,Rotator Cuff Disease Type (tear or other),Publication Year,OR,LCI,UCI,Study-Design,SE
+Djerbi et. al,Rotator Cuff Tear,2015,2.105,1.526035128,2.683964872,case-control,0.295390241
+Rechardt et. al (men),Teniditis,2010,1.7,0.8,3.6,cross-sectional,0.383693213
+Rechardt et. al (women),Teniditis,2010,1.2,0.6,2.3,cross-sectional,0.342789476
+Roquelaure et. al (men),Rotator Cuff Syndrome,2011,1.4,0.8,2.5,cross-sectional,0.290672011
+Roquelaure et. al (women),Rotator Cuff Syndrome,2011,1.2,0.6,2.2,cross-sectional,0.331449741
+Wendelboe et. al (men),Rotator Cuff Surgery,2004,2.1497,1.346248,3.432755,case-control,0.238786143
+Wendelboe et. al (women),Rotator Cuff Surgery,2004,2.823815,1.842312,4.328218,case-control,0.217891481
+Titchener et. al,Rotator Cuff Disease,2014,1.0837171,0.948,1.239,case-control,0.068292189
+Kuo et. al,Rotator Cuff Tear,2019,1.82,1.23,2.68,retrospective cohort,0.199624241
+Song et. al,Rotator Cuff Tear,2022,1.45,1.24,2.69,case-control,0.31632653
+Gumina et. al (men),Rotator Cuff Tear,2014,2.49,1.41,3.9,case-control,0.719387755
+Gumina et. al (women),Rotator Cuff Tear,2014,2.31,1.38,3.62,case-control,0.668367347
